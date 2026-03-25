@@ -189,13 +189,6 @@ print(f"  TOTAL:   {soma_final:.2f}")
 │  Mostra valor de cada GPU e total final     │
 └─────────────────────────────────────────────┘
 ```
-
-## Arquivos
-
-- `paralelgpu.py` - Código principal
-- `README.md` - Este arquivo
-- `.gitignore` - Arquivos que não vão pro GitHub
-
 ## Licença
 
 MIT
